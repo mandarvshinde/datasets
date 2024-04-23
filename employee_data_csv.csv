@@ -1,0 +1,9 @@
+EmployeeName,Designation,Highest Education,Skills,Industry Vertical,Tools,Persistent Experience,Total Experience
+John Doe,Senior Software Engineer,Master's in Computer Science,"['Python', 'JavaScript', 'SQL', 'React']",Technology,"Jira, Git, Docker",5 years,8 years
+Jane Smith,Data Scientist,PhD in Statistics,"['R', 'Python', 'Machine Learning', 'Data Visualization']",Data Science,"Python (pandas, scikit-learn), Tableau, SQL",3 years,6 years
+Alice Johnson,Marketing Manager,Bachelor's in Marketing,"['Digital Marketing', 'SEO', 'Content Strategy', 'Social Media Management']",Marketing,"Google Analytics, HubSpot, Buffer",2 years,5 years
+George Hemmings,Senior Software Engineer,Bachelor's in Science,"['Python', 'JavaScript', 'SQL', 'React']",Finance,"Confluence, Robohelp",8 years,11 years
+Matt Jenninger,Technical Writer,Bachelor's in Computers,"['R', 'Python', 'Machine Learning', 'Data Visualization']",Health Sciences,"Framework, SQL",9 years,13 years
+Ann Scoot,Senior Tech Lead,Bachelor's in Engineering,"['Digital Marketing', 'SEO', 'Content Strategy', 'Social Media Management']",Data Analytics,"Micorosft Word, Oxygen XML, DITA",2 years,5 years
+Sam Allen,Communication Lead,Master's in Electronics Engineering,"['Python', 'JavaScript', 'SQL', 'React']",Insurance,"Markdown, Hugo",6 years,8 years
+Jennifer Johanson,Principal Information Developer,Bachelor's in Commerce,"['R', 'Python', 'Machine Learning', 'Data Visualization']",Banking,"Java, C#",3 years,7 years
